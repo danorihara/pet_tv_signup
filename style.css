@@ -1,0 +1,59 @@
+.title {
+	font-size: 2rem;
+	color: #333;
+	text-align: center;
+  }
+  
+  .description {
+	font-size: 1.2rem;
+	color: #666;
+	text-align: center;
+  }
+  
+  .section-title {
+	font-size: 1.5rem;
+	color: #333;
+	margin-top: 2rem;
+  }
+  
+  .live-stream {
+	border: 1px solid #ccc;
+	padding: 1rem;
+	margin-bottom: 1rem;
+  }
+  
+  .stream-iframe {
+	width: 100%;
+	height: 400px;
+  }
+  
+  .comment-input {
+	width: 80%;
+	padding: 0.5rem;
+	margin-top: 1rem;
+  }
+  
+  .comment-submit {
+	padding: 0.5rem;
+	margin-top: 1rem;
+	background-color: #333;
+	color: #fff;
+	border: none;
+  }
+  
+  .new-live-stream {
+	border: 1px solid #ccc;
+	padding: 1rem;
+	margin-bottom: 1rem;
+  }
+  
+  .stream-link {
+	font-weight: bold;
+	color: #333;
+	text-decoration: none;
+  }
+  
+  .stream-link:hover {
+	text-decoration: underline;
+  }
+  
